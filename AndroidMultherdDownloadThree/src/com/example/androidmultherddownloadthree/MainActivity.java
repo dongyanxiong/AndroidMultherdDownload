@@ -27,6 +27,7 @@ import com.example.androidmultherddownloadthree.entity.LoadInfo;
  * 各取所长,保证用户体验,handler通常在主线程中有利于专门负责处理UI的一些工作
  * @author miaowei
  *
+ *
  */
 public class MainActivity extends Activity {
 
